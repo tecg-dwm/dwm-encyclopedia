@@ -28,19 +28,10 @@ L'interface utilisateur doit être ergonomique, intuitive et attrayante. Elle do
 #### Page de Détail d'Article
 * Contenu de l'article avec texte, images et médias associés
 * Informations supplémentaires (auteur, date de publication, sources, etc.)
-* Possibilité de noter l'article et de laisser des commentaires
 
 #### Page de Catégories
 * Liste des catégories thématiques ou des sujets
 * Possibilité de parcourir les articles par catégorie
-
-#### Page de Marque-pages
-* Liste des articles marqués par l'utilisateur pour consultation ultérieure
-
-#### Page de Profil Utilisateur
-* Informations sur l'utilisateur (optionnel)
-* Paramètres de compte
-* Activités récentes (notes, commentaires, etc.)
 
 #### Page de Paramètres
 * Paramètres généraux de l'application (langue, notifications, etc.)
@@ -50,7 +41,7 @@ Les utilisateurs doivent pouvoir partager des articles sur les réseaux sociaux 
 
 ## Fonctionnalité bonus
 * Les utilisateurs inscrits peuvent : 
-	* créer un compte et personnaliser l'interface (police, taille de la police, etc.);
+	* créer un compte (informations sur l'utilisateur) et personnaliser l'interface (police, taille de la police, etc.);
 	* marquer des articles pour les consulter ultérieurement;
 	* disposent d'un historique de navigation.
 
